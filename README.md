@@ -1,2 +1,3 @@
 # public
-Public repo for projects.
+Public repo for project index:
+    Kerbal Space Program Autopilot Plugin
